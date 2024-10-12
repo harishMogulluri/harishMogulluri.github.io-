@@ -11,12 +11,12 @@ asciidoctor:
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-author
 author:
-  avatar: /assets/images/avatar.png # FIXME Replace with your avatar.
-  bio: I are programmer. I make computer beep boop beep beep boop. # FIXME Replace with your bio.
-  github: # FIXME Add your GitHub username or remove this line.
-  linkedin: # FIXME Add your Linkedin username or remove this line.
-  location: Earth, Milky Way # FIXME Replace with your location or remove this line.
-  name: John Doe # FIXME Replace with your name.
+  avatar: /assets/images/Linkedin Pic.jpg # FIXME Replace with your avatar.
+  bio: Harish Mogulluri is a highly skilled Intelligent Automation specialist with over 7 years of experience in the automation industry. Currently working as a SeniorDeveloper and Lead Developer, Harish has built a reputation for driving innovation in Robotic Process Automation (RPA) across multiple industries, with a particular focus on healthcare and finance.. # FIXME Replace with your bio.
+  github:HarishMogulluri # FIXME Add your GitHub username or remove this line.
+  linkedin: https://www.linkedin.com/in/h-mogulluri/ # FIXME Add your Linkedin username or remove this line.
+  location: United States # FIXME Replace with your location or remove this line.
+  name: Harish Mogulluri # FIXME Replace with your name.
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#giscus-comments
 comments:
@@ -29,7 +29,7 @@ comments:
     theme: light
   provider: giscus
 
-copyright: John Doe # FIXME Replace with your name or anything that makes sense. This will appear in the blog footer.
+copyright: Harish Mogulluri # FIXME Replace with your name or anything that makes sense. This will appear in the blog footer.
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#front-matter-defaults
 defaults:
@@ -45,7 +45,7 @@ defaults:
       share: true
       show_date: true
 
-description: John Doe's blog # FIXME Replace with your blog description. This is only used in the blog HTML meta tags.
+description: The Intelligent Process Expert # FIXME Replace with your blog description. This is only used in the blog HTML meta tags.
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#code-block-copy-button
 enable_copy_code_button: true
@@ -57,10 +57,10 @@ footer:
   links:
     - label: GitHub
       icon: fab fa-fw fa-github
-      url: https://github.com/ # FIXME Replace with a link pointing to your GitHub profile (e.g. https://github.com/gwenneg) or remove this item.
+      url: https://github.com/harishMogulluri # FIXME Replace with a link pointing to your GitHub profile (e.g. https://github.com/gwenneg) or remove this item.
     - label: Linkedin
       icon: fab fa-fw fa-linkedin
-      url: https://www.linkedin.com/in/ # FIXME Replace with a link pointing to your Linkedin profile (e.g. https://www.linkedin.com/in/gwenneg) or remove this item.
+      url: https://www.linkedin.com/in/h-mogulluri/ # FIXME Replace with a link pointing to your Linkedin profile (e.g. https://www.linkedin.com/in/gwenneg) or remove this item.
 
 locale: en-US
 
@@ -86,6 +86,6 @@ tag_archive:
   path: /tags/
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-title
-title: John Doe's blog # FIXME Replace with your blog title.
+title: Mastering Intelligent Automation with Harish # FIXME Replace with your blog title.
 
-url: # FIXME Add your blog URL (e.g. https://gwenneg.github.io).
+url:harishMogulluri.github.io # FIXME Add your blog URL (e.g. https://gwenneg.github.io).
