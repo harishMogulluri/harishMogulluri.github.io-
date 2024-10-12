@@ -9,7 +9,6 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache', '~> 0.2.1'
   gem 'jekyll-remote-theme', '~> 0.4.3'
   gem 'jekyll', '4.3.4'
-  gem 'jekyll-asciidoc', '3.0.1'
   gem 'i18n', '1.14.6'
   gem 'jekyll-sass-converter', '3.0.0'
   gem 'mercenary', '0.4.0'
