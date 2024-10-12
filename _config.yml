@@ -13,7 +13,7 @@ asciidoctor:
 author:
   avatar: /assets/images/Linkedin Pic.jpg # FIXME Replace with your avatar.
   bio: Harish Mogulluri is a highly skilled Intelligent Automation specialist with over 7 years of experience in the automation industry. Currently working as a SeniorDeveloper and Lead Developer, Harish has built a reputation for driving innovation in Robotic Process Automation (RPA) across multiple industries, with a particular focus on healthcare and finance.. # FIXME Replace with your bio.
-  github:HarishMogulluri # FIXME Add your GitHub username or remove this line.
+  github: HarishMogulluri # FIXME Add your GitHub username or remove this line.
   linkedin: https://www.linkedin.com/in/h-mogulluri/ # FIXME Add your Linkedin username or remove this line.
   location: United States # FIXME Replace with your location or remove this line.
   name: Harish Mogulluri # FIXME Replace with your name.
