@@ -45,7 +45,7 @@ defaults:
       share: true
       show_date: true
 
-description: The Intelligent Process Expert # FIXME Replace with your blog description. This is only used in the blog HTML meta tags.
+description: Mastering Intelligent Automation with Harish # FIXME Replace with your blog description. This is only used in the blog HTML meta tags.
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#code-block-copy-button
 enable_copy_code_button: true
