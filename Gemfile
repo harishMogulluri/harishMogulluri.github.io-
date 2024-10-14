@@ -19,7 +19,7 @@ group :jekyll_plugins do
   gem 'public_suffix', '6.0.1'
   gem 'concurrent-ruby', '1.3.4'
   gem 'sass-embedded', '1.78.0'
-  gem 'rexml', '3.3.7'
+  gem 'rexml', '3.3.8'
   gem 'unicode-display_width', '2.6.0'
   gem 'google-protobuf', '4.28.1'
   gem 'rake', '13.2.1'
