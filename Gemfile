@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem 'sass-embedded', '1.78.0'
   gem 'rexml', '3.3.7'
   gem 'unicode-display_width', '2.6.0'
-  gem 'google-protobuf', '4.28.1'
+  gem 'google-protobuf', '4.28.2'
   gem 'rake', '13.2.1'
   gem "faraday-retry"
 end
