@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem 'asciidoctor', '2.0.23'
   gem 'public_suffix', '6.0.1'
   gem 'concurrent-ruby', '1.3.4'
-  gem 'sass-embedded', '1.78.0'
+  gem 'sass-embedded', '1.80.2'
   gem 'rexml', '3.3.7'
   gem 'unicode-display_width', '2.6.0'
   gem 'google-protobuf', '4.28.1'
