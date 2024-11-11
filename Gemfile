@@ -13,7 +13,7 @@ group :jekyll_plugins do
   gem 'jekyll', '~> 4.3.4'
   gem 'jekyll-sass-converter', '3.0.0'
   gem 'mercenary', '0.4.0'
-  gem 'rouge', '4.4.0'
+  gem 'rouge', '4.5.0'
   gem 'terminal-table', '3.0.2'
   gem 'asciidoctor', '2.0.23'
   gem 'public_suffix', '6.0.1'
